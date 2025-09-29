@@ -1,0 +1,60 @@
+timestamp,age,driver_license_year,vehicule_brand,vehicule_year,vehicule_type,vehicule__value,vehicule_value,insurance_type,insurance__premium,insurance_premium,location,city,number_of_damages,total_damage_amount_,total_damage_amount
+8/29/2025 10:54:59,39,2009,Dacia,2021,Sedan,800000,16326.53,Kapsamlı (Comprehensive),20000,408.16,Türkiye,istanbul,2,20000,408.1632653
+8/29/2025 10:56:27,43,2007,Toyota Corolla,2014,Sedan,750000,15306.12,"Çarpışma (Collision), Kapsamlı (Comprehensive), Diğer",35000,714.29,Türkiye,İstanbul ,4,100000,2040.816327
+8/29/2025 11:53:12,50,2002,Toyota,2023,Sedan,1800000,36734.69,"Çarpışma (Collision), Kapsamlı (Comprehensive), Cam Kırılması, Yangın, Doğal Afet, Hırsızlık",28000,571.43,Türkiye,İstanbul ,0,0,0
+8/29/2025 11:55:46,45,2008,Hyundai ,2021,Other,650000,13265.31,Kapsamlı (Comprehensive),23000,469.39,Türkiye,Istanbul,2,65900,1344.897959
+8/29/2025 15:16:41,38,2004,wolkswagen,2016,Sedan,500000,10204.08,"Çarpışma (Collision), Kapsamlı (Comprehensive), Cam Kırılması, Yangın, Hırsızlık",10000,204.08,Türkiye,istanbul,0,0,0
+8/29/2025 18:10:12,71,1992,Dacia,2013,SUV,400000,8163.27,Cam Kırılması,18000,367.35,Türkiye,Istanbul,5,150000,3061.22449
+8/29/2025 19:39:27,55,1989,Opel/Mokka,2014,SUV,750000,15306.12,Kapsamlı (Comprehensive),8378,170.98,Türkiye,İstanbul,0,0,0
+8/29/2025 20:36:46,76,1969,Dacia/duster,2020,SUV,950000,19387.76,Kapsamlı (Comprehensive),15850,323.47,Türkiye,İstanbul,0,0,0
+8/30/2025 7:37:21,40,2005,Honda,2018,Sedan,1200000,24489.80,Kapsamlı (Comprehensive),16000,326.53,Türkiye,İstanbul,0,0,0
+8/31/2025 10:27:27,37,2006,Kia/cerato,2017,Sedan,1000000,20408.16,"Çarpışma (Collision), Kapsamlı (Comprehensive), Cam Kırılması, Yangın, Doğal Afet, Hırsızlık",15000,306.12,Türkiye,İstanbul ,0,0,0
+9/2/2025 6:32:13,39,2008,Tesla,2025,Sedan,2200000,44897.96,Kapsamlı (Comprehensive),30000,612.24,Türkiye,Kocaeli,0,0,0
+9/3/2025 21:45:23,41,2002,Dacia,2020,Other,1000000,20408.16,"Çarpışma (Collision), Kapsamlı (Comprehensive), Cam Kırılması, Yangın, Doğal Afet, Hırsızlık",36000,734.69,Türkiye,İstanbul ,2,"100,000","2,041"
+9/4/2025 18:56:53,41,2005,Opel/corsa,2016,Sedan,700000,14285.71,"Çarpışma (Collision), Kapsamlı (Comprehensive), Cam Kırılması, Yangın, Doğal Afet, Hırsızlık, Diğer",12000,244.90,Türkiye,Kocaeli,0,0,0
+9/4/2025 20:00:11,34,2010,Ford,2022,Sedan,900000,18367.35,Kapsamlı (Comprehensive),28000,571.43,Türkiye,Ankara,1,15000,306.122449
+9/4/2025 20:06:50,39,2009,Dacia,2021,Sedan,"800,000",16326.53,Kapsamlı (Comprehensive),"19,600",400.00,Türkiye,Istanbul,0,"20,000",408
+9/4/2025 22:54:01,43,2007,Toyota Corolla,2014,Sedan,"750,000",15306.12,"Çarpışma (Collision), Kapsamlı (Comprehensive), Diğer","22,200",453.06,Türkiye,Istanbul,0,"100,000","2,041"
+04/09/2025 8:12:34,50,2002,Toyota,2023,Sedan,"1,800,000",36734.69,"Çarpışma (Collision), Kapsamlı (Comprehensive), Cam Kırılması, Yangın, Doğal Afet, Hırsızlık","53,000",1081.63,Türkiye,Istanbul,0,0,0
+04/09/2025 9:45:21,45,2008,Hyundai,2021,Other,"650,000",13265.31,Kapsamlı (Comprehensive),"16,800",342.86,Türkiye,Istanbul,0,"65,900","1,345"
+04/09/2025 11:22:10,38,2004,Volkswagen,2016,Sedan,"500,000",10204.08,"Çarpışma (Collision), Kapsamlı (Comprehensive), Cam Kırılması, Yangın, Hırsızlık","13,000",265.31,Türkiye,Istanbul,0,0,0
+04/09/2025 12:55:03,71,1992,Dacia,2013,SUV,"400,000",8163.27,Cam Kırılması,"9,000",183.67,Türkiye,Istanbul,0,"150,000","3,061"
+04/09/2025 14:10:45,55,1989,Opel/Mokka,2014,SUV,"750,000",15306.12,Kapsamlı (Comprehensive),"17,000",346.94,Türkiye,Istanbul,0,0,0
+04/09/2025 15:35:12,76,1969,Dacia/duster,2020,SUV,"950,000",19387.76,Kapsamlı (Comprehensive),"21,000",428.57,Türkiye,Istanbul,0,0,0
+05/09/2025 8:44:27,40,2005,Honda,2018,Sedan,"1,200,000",24489.80,Kapsamlı (Comprehensive),"26,000",530.61,Türkiye,Istanbul,0,0,0
+05/09/2025 10:17:54,36,2014,Renault,2021,Sedan,"800,000",16326.53,"Çarpışma (Collision), Kapsamlı (Comprehensive), Cam Kırılması, Yangın, Doğal Afet, Diğer","25,600",522.45,Türkiye,Istanbul,0,"25,000",510
+05/09/2025 11:48:39,37,2006,Kia/cerato,2017,Sedan,"1,000,000",20408.16,"Çarpışma (Collision), Kapsamlı (Comprehensive), Cam Kırılması, Yangın, Doğal Afet, Hırsızlık","40,000",816.33,Türkiye,Istanbul,0,0,0
+05/09/2025 13:02:15,39,2008,Tesla,2025,Sedan,"2,200,000",44897.96,Kapsamlı (Comprehensive),"46,000",938.78,Türkiye,Kocaeli,0,0,0
+05/09/2025 14:35:42,41,2002,Dacia,2020,Other,"1,000,000",20408.16,"Çarpışma (Collision), Kapsamlı (Comprehensive), Cam Kırılması, Yangın, Doğal Afet, Hırsızlık","42,000",857.14,Türkiye,Istanbul,0,"100,000","2,041"
+05/09/2025 15:57:08,41,2005,Opel/corsa,2016,Sedan,"700,000",14285.71,"Çarpışma (Collision), Kapsamlı (Comprehensive), Cam Kırılması, Yangın, Doğal Afet, Diğer","21,000",428.57,Türkiye,Kocaeli,0,0,0
+06/09/2025 8:25:31,29,2012,BMW,2021,SUV,"1,800,000",36734.69,"Çarpışma (Collision), Kapsamlı (Comprehensive)","46,600",951.02,Türkiye,Istanbul,0,0,0
+06/09/2025 9:48:59,47,2001,Mercedes,2023,Sedan,"2,500,000",51020.41,"Kapsamlı (Comprehensive), Cam Kırılması, Yangın","62,000",1265.31,Türkiye,Izmir,2,"50,000","1,020"
+06/09/2025 11:11:20,38,2005,Fiat,2019,Other,"650,000",13265.31,"Çarpışma (Collision), Kapsamlı (Comprehensive), Diğer","32,000",653.06,Türkiye,Bursa,0,0,0
+06/09/2025 12:44:07,33,2009,Honda,2022,Sedan,"1,200,000",24489.80,"Kapsamlı (Comprehensive), Cam Kırılması","38,600",787.76,Türkiye,Istanbul,1,"10,000",204
+06/09/2025 14:05:33,52,1998,Opel,2018,SUV,"800,000",16326.53,"Çarpışma (Collision), Kapsamlı (Comprehensive), Yangın","32,000",653.06,Türkiye,Antalya,3,"70,000","1,429"
+06/09/2025 15:32:44,41,2006,Renault,2020,Sedan,"950,000",19387.76,"Kapsamlı (Comprehensive), Doğal Afet","32,000",653.06,Türkiye,Izmir,1,"20,000",408
+07/09/2025 8:15:56,36,2011,Toyota,2023,Sedan,"1,400,000",28571.43,"Kapsamlı (Comprehensive), Cam Kırılması, Hırsızlık","42,000",857.14,Türkiye,Istanbul,0,0,0
+07/09/2025 9:50:22,30,2013,Kia,2022,Other,"1,100,000",22448.98,"Çarpışma (Collision), Kapsamlı (Comprehensive), Yangın","42,000",857.14,Türkiye,Ankara,0,0,0
+07/09/2025 11:18:39,35,2010,Ford,2022,Sedan,"900,000",18367.35,Kapsamlı (Comprehensive),"28,400",579.59,Türkiye,Ankara,0,0,0
+07/09/2025 12:42:56,28,2014,BMW,2021,SUV,"1,900,000",38775.51,"Çarpışma (Collision), Kapsamlı (Comprehensive)","49,600",1012.24,Türkiye,Istanbul,1,0,0
+07/09/2025 14:10:14,50,2000,Mercedes,2023,Sedan,"2,300,000",46938.78,"Kapsamlı, Cam Kırılması, Yangın","61,000",1244.90,Türkiye,Izmir,2,"60,000","1,224"
+7/9/2025 15:05:23,37,2008,Fiat,2018,Other,"700,000",14285.71,"Çarpışma, Kapsamlı, Diğer","33,700",687.76,Türkiye,Bursa,0,0,0
+7/9/2025 16:42:11,32,2009,Honda,2022,Sedan,"1,100,000",22448.98,"Kapsamlı, Cam Kırılması","36,000",734.69,Türkiye,Istanbul,0,0,0
+7/9/2025 18:30:47,48,1999,Opel,2019,SUV,"850,000",17346.94,"Çarpışma, Kapsamlı, Yangın","35,980",734.29,Türkiye,Antalya,3,"50,000","1,020"
+7/9/2025 20:15:36,40,2007,Renault,2020,Sedan,"1,000,000",20408.16,"Kapsamlı, Doğal Afet","35,000",714.29,Türkiye,Izmir,1,"15,000",306
+7/9/2025 22:01:09,36,2011,Toyota,2023,Sedan,"1,500,000",30612.24,"Kapsamlı, Cam Kırılması, Hırsızlık","45,000",918.37,Türkiye,Istanbul,0,0,0
+8/9/2025 8:12:44,31,2013,Kia,2022,Other,"1,050,000",21428.57,"Çarpışma, Kapsamlı, Yangın","41,349",843.86,Türkiye,Ankara,0,0,0
+8/9/2025 9:55:28,46,2005,Volkswagen,2021,SUV,"1,250,000",25510.20,"Kapsamlı, Cam Kırılması, Yangın, Doğal Afet","44,400",906.12,Türkiye,Istanbul,2,"35,000",714
+8/9/2025 11:40:19,39,2012,Ford,2021,Sedan,"950,000",19387.76,Kapsamlı,"28,800",587.76,Türkiye,Bursa,0,0,0
+8/9/2025 13:25:51,27,2015,BMW,2023,SUV,"2,000,000",40816.33,"Çarpışma, Kapsamlı","51,500",1051.02,Türkiye,Istanbul,1,0,0
+8/9/2025 15:10:34,49,2002,Mercedes,2022,Sedan,"2,400,000",48979.59,"Kapsamlı, Cam Kırılması, Yangın","62,200",1269.39,Türkiye,Izmir,2,"70,000","1,429"
+8/9/2025 16:55:22,38,2006,Fiat,2019,Other,"650,000",13265.31,"Çarpışma, Kapsamlı, Diğer","32,306",659.31,Türkiye,Bursa,0,0,0
+8/9/2025 18:40:07,34,2010,Honda,2022,Sedan,"1,150,000",23469.39,"Kapsamlı, Cam Kırılması","37,987",775.24,Türkiye,Istanbul,0,0,0
+8/9/2025 20:25:46,53,1998,Opel,2018,SUV,"800,000",16326.53,"Çarpışma, Kapsamlı, Yangın","32,654",666.41,Türkiye,Antalya,3,"70,000","1,429"
+8/9/2025 22:10:33,42,2006,Renault,2020,Sedan,"950,000",19387.76,"Kapsamlı, Doğal Afet","32,045",653.98,Türkiye,Izmir,1,"20,000",408
+9/9/2025 8:05:14,37,2011,Toyota,2023,Sedan,"1,400,000",28571.43,"Kapsamlı, Cam Kırılması, Hırsızlık","42,000",857.14,Türkiye,Istanbul,0,0,0
+9/9/2025 9:50:55,30,2013,Kia,2022,Other,"1,100,000",22448.98,"Çarpışma, Kapsamlı, Yangın","42,000",857.14,Türkiye,Ankara,0,0,0
+9/9/2025 11:35:42,45,2004,Volkswagen,2021,SUV,"1,300,000",26530.61,"Kapsamlı, Cam Kırılması, Yangın, Doğal Afet","43,657",890.96,Türkiye,Istanbul,2,"35,000",714
+9/9/2025 13:20:28,42,2010,Lexus,2022,Sedan,"1,800,000",36734.69,"Kapsamlı (Comprehensive), Cam Kırılması, Hırsızlık","48,087",981.37,Türkiye,Istanbul,0,0,0
+9/9/2025 15:05:13,35,2013,Nissan,2021,SUV,"1,200,000",24489.80,"Çarpışma (Collision), Kapsamlı (Comprehensive)","36,064",736.00,Türkiye,Ankara,1,"5,000",102
+9/9/2025 16:50:59,29,2015,Peugeot,2023,Other,"900,000",18367.35,Kapsamlı (Comprehensive),"28,509",581.82,Türkiye,Izmir,0,0,0
